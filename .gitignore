@@ -1,5 +1,5 @@
 # 排除更新后的前端
-frontend-resume/
+
 
 # Python
 __pycache__/
